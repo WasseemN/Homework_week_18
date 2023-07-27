@@ -35,6 +35,6 @@ The below snapshot shows the slider control for difficulty level controller and 
 In order to validate the hashing process of the transactions, the `Validate Chain` button is provided to validate each transaction.
 
 
-![Pychain_LedgerValidation](Images/Pychain_LedgerValidation.png)
+![Pychain_LedgerValidation](Images/PyChain_LedgerValidation.PNG)
 
 ##### <center>Figure 3 - Transaction Validation
