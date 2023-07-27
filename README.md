@@ -17,7 +17,7 @@ The developed web interface tool allows the user to perform, review and validate
 Here is an example of multiple transactions processed on the web interface, showing how the blockchain is updated with the relevant information from each transaction.
 
 
-<center><img src="[Images/Pychain_Main.png](https://github.com/WasseemN/Homework_week_18/blob/main/Images/PyChain_BlockInspector.PNG)"/></center>
+[Images/Pychain_Main.png](https://github.com/WasseemN/Homework_week_18/blob/main/Images/PyChain_BlockInspector.PNG)
 
 ##### <center>Figure 1 - Snapshot of the ledger
 
