@@ -25,7 +25,7 @@ Here is an example of multiple transactions processed on the web interface, show
 The below snapshot shows the slider control for difficulty level controller and the `Block Inspector` which provides the user with detailed information of any transaction selected. As shown the previous hash, timestamp and nonce can be reviewd using this function.
 
 
-![Pychain_BlockInspector](Images/Pychain_BlockInspector.png)
+![Pychain_BlockInspector](Images/PyChain_BlockInspector.PNG)
 
 
 ##### <center>Figure 2 - Hashing Difficulty Level Controller
