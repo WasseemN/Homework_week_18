@@ -17,7 +17,7 @@ The developed web interface tool allows the user to perform, review and validate
 Here is an example of multiple transactions processed on the web interface, showing how the blockchain is updated with the relevant information from each transaction.
 
 
-[Images/Pychain_Main.png](https://github.com/WasseemN/Homework_week_18/blob/main/Images/PyChain_BlockInspector.PNG)
+![Images/Pychain_Main.png](./Images/PyChain_BlockInspector.PNG)
 
 ##### <center>Figure 1 - Snapshot of the ledger
 
@@ -25,7 +25,7 @@ Here is an example of multiple transactions processed on the web interface, show
 The below snapshot shows the slider control for difficulty level controller and the `Block Inspector` which provides the user with detailed information of any transaction selected. As shown the previous hash, timestamp and nonce can be reviewd using this function.
 
 
-<center><img src="Images/Pychain_BlockInspector.png"/></center>
+![Images/Pychain_BlockInspector.png](./Images/Pychain_BlockInspector.png)
 
 
 ##### <center>Figure 2 - Hashing Difficulty Level Controller
@@ -35,6 +35,6 @@ The below snapshot shows the slider control for difficulty level controller and 
 In order to validate the hashing process of the transactions, the `Validate Chain` button is provided to validate each transaction.
 
 
-<center><img src="Images/Pychain_LedgerValidation.png"/></center>
+![Images/Pychain_LedgerValidation.png](.Images/Pychain_LedgerValidation.png)
 
 ##### <center>Figure 3 - Transaction Validation
