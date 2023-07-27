@@ -17,7 +17,7 @@ The developed web interface tool allows the user to perform, review and validate
 Here is an example of multiple transactions processed on the web interface, showing how the blockchain is updated with the relevant information from each transaction.
 
 
-![Images/Pychain_Main.png](./Images/PyChain_BlockInspector.PNG)
+![Images/Pychain_Main.png](./Images/Pychain_Main.PNG)
 
 ##### <center>Figure 1 - Snapshot of the ledger
 
@@ -35,6 +35,6 @@ The below snapshot shows the slider control for difficulty level controller and 
 In order to validate the hashing process of the transactions, the `Validate Chain` button is provided to validate each transaction.
 
 
-![Images/Pychain_LedgerValidation.png](.Images/Pychain_LedgerValidation.png)
+![Images/Pychain_LedgerValidation.png](./Images/Pychain_LedgerValidation.png)
 
 ##### <center>Figure 3 - Transaction Validation
